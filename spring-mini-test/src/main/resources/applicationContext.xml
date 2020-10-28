@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean name="c" class="com.yanyang.spring.mini.pojo.Category">
+        <property name="name" value="category 1" />
+    </bean>
+</beans>
